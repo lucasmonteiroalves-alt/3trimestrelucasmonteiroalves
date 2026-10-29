@@ -9,7 +9,7 @@ gameContainer.style.maxWidth = '400px';
 
 // Título do Jogo
 const title = document.createElement('h1');
-title.innerText = 'JOGUINHO FODA';
+title.innerText = 'DAMAS CLASSICO';
 title.style.color = '#333';
 title.style.margin = '10px 0';
 gameContainer.appendChild(title);
