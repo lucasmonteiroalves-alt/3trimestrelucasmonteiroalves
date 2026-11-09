@@ -7,8 +7,8 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #886435;
-color: rgb(0, 0, 0);
+background-color: #424e61;
+color: white;
 width: 100%;
 padding: 20px;
 }
@@ -57,7 +57,7 @@ width: 38px;
 padding: 4px 8px;
 }
 .estudante{
-background-image: background-color(#886435);
+background-image: background-color(#faae43);
 padding: 24px 0;
 }
 
@@ -70,8 +70,8 @@ display: flex;
 justify-content: space-around;
 }
 .escola{
-background-image: linear-gradient(#886435,#886435;
-color: rgb(0, 0, 0);
+background-image: linear-gradient(#40A2E3,#7FC2EF);
+color: white;
 display: flex;
 justify-content:center;
 padding: 24px 0;
@@ -89,7 +89,7 @@ padding: 12px 0;
 }
 
 .link{
-color: #000000;
+color: #ffffff;
 text-decoration: none;
 }
 
