@@ -118,3 +118,60 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
+
+
+
+/* Fundo da página */
+body {
+    background-color: #f0f2f5;
+}
+
+/* Área sobre mim */
+.sobre-mim {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* Título */
+.sobre-mim h1 {
+    color: #424e61;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+/* Parágrafos */
+.sobre-mim p {
+    color: #444;
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 18px;
+}
+
+/* Frase de destaque */
+.frase-destaque {
+    background: linear-gradient(135deg, #424e61, #7FC2EF);
+    color: white;
+    padding: 25px;
+    margin-top: 35px;
+    border-radius: 12px;
+}
+
+.frase-destaque h3 {
+    margin: 0;
+    font-size: 20px;
+}
+
+/* Rodapé */
+.escola {
+    margin-top: 60px;
+    padding: 35px 20px;
+    background: linear-gradient(135deg, #424e61, #7FC2EF);
+    color: white;
+    text-align: center;
+    display: block;
+}
